@@ -1,0 +1,27 @@
+body{
+    color:blue; background-color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50vh 10vw;
+
+}
+
+p{
+    color: bisque; font-size: 100%;
+}
+
+h1#yes{
+    color: aqua
+}
+
+p.dotted{border-style: dotted}
+p.double{border-style: double}
+p.groove{border-style: groove}
+
+div{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+
+
